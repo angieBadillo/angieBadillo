@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angieBadillo
-- 👀 I’m interested in UX, JS and cryptocurrency.
-- 🌱 I’m currently learning UX design, react, vue, angular...
+- 👀 I’m interested in Frontend, Vue3, UX & AI.
+- 🌱 I’m currently learning Vue3, typescript, AI.
 - 💞️ I’m looking to collaborate on super amazing project!
 - 📫 How to reach me angie.badillo@icloud.com
 
