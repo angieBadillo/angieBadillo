@@ -24,7 +24,7 @@ I’m open to contributing to **super amazing projects** in:
 
 ### 📫 Reach Me
 📧 **angie.badillo@icloud.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/angiebadillo)
+🔗 [LinkedIn](https://www.linkedin.com/in/angelica-badillo/)
 
 ---
 
