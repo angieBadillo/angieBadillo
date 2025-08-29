@@ -1,23 +1,21 @@
 # 👋 Hi, I’m Angie Badillo  
 
 ✨ **Senior Frontend Engineer** with 8+ years of experience building web applications.  
-💡 Currently pivoting into **AI, Data Visualization, and Immersive Tech (AR/VR)**.  
-🎨 Passionate about **Vue 3, TypeScript, UX design, and creative coding**.  
-🚀 Exploring how **AI + AR/VR + Data Viz** can create next-generation interactive experiences.  
+💡 Currently pivoting into **Vue3, React, AI, ML**.  
+🎨 Passionate about **Vue 3, TypeScript, UX design, and creative coding**.    
 
 ---
 
 ### 🌱 What I’m Learning
 - Prompt engineering & applied AI integrations 🤖  
-- Data visualization with **D3.js & Three.js** 📊  
-- Immersive web experiences using **WebXR & A-Frame** 🌌  
-
+- Data visualization 📊
+  
 ---
 
 ### 💞️ Let’s Collaborate
 I’m open to contributing to **super amazing projects** in:  
-- AI-powered apps  
-- Interactive data storytelling  
+- AI-powered apps
+- ML
 - Immersive UX & frontend experiments  
 
 ---
